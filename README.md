@@ -1,7 +1,11 @@
-# `Base App - Aurelia + Sass + Fomantic - ESNext`
+# `Base App- Aurelia+Sass+Fomantic`
 ## Updates
-Created with Au New, Added Sass Support, Added Fomantic UI, built test page.
-To be used for a base to create other apps
+ - Created with Au New
+ - Added SASS Support
+ - Added Fomantic UI (Semantic UI but updated by the community)
+ - Created Test Page
+
+This is for building apps with the above frameworks built in
 
 ## Aurelia
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
