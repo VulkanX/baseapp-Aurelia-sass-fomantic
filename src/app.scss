@@ -1,0 +1,22 @@
+.sass-test {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  font-size: 2rem;
+  font-weight: bold;
+  border: 2px solid black;
+  color: orange;
+  box-shadow: 6px 6px 8px 2px rgb(0,0,0,0.4);
+  transition: ease-in-out .5s;
+}
+
+.sass-test:hover {
+  box-shadow: -6px -6px 8px 2px rgb(0,0,0,0.4);
+}
+
+.ui.container {
+  padding-top: 50px;
+}
