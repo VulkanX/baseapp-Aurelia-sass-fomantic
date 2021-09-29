@@ -1,5 +1,9 @@
-# `status-page`
+# `Base App - Aurelia + Sass + Fomantic - ESNext`
+## Updates
+Created with Au New, Added Sass Support, Added Fomantic UI, built test page.
+To be used for a base to create other apps
 
+## Aurelia
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
 For more information, go to https://aurelia.io/docs/cli/webpack
